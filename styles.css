@@ -6,6 +6,7 @@ button {
     width: 100px;
     background-color: #674EA7;
     border-radius: 5px;
+    
 }
 
 .header {
@@ -24,7 +25,13 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     margin:0px;
+    
 }
+p {
+    font-size: 18px;
+    width: 500px;
+}
+
 .top {
      background-color: #9891ac;
      display: flex;
@@ -37,5 +44,12 @@ body {
     padding-bottom: 50px;
     display: flex;
     flex-direction: column;
-    width: 600px;
+    justify-content: space-evenly;
+    
+}
+.birds {
+    display: flex;
+    align-self: flex-end;
+    justify-content: center;
+    
 }
