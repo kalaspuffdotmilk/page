@@ -43,9 +43,13 @@ p {
 }
 .container {
     background-color: #9891ac;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
     padding-bottom: 50px;
+}
+.rest {
+    padding-right: 400px;
+    padding-left: 400px;
 }
 
 .top {
@@ -54,9 +58,5 @@ p {
      align-items: center;
      justify-content: space-between;
 }
-.awesome {
-    background-color: #9891ac;
-    display: flex;
-    flex:1;
-}
+
 
