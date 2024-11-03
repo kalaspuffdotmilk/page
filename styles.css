@@ -6,6 +6,8 @@ button {
     width: 100px;
     background-color: #674EA7;
     border-radius: 5px;
+    padding:5px;
+    color:white;
     
 }
 
@@ -34,6 +36,10 @@ p {
     font-size: 18px;
     margin:0px;
     width: 500px;  
+    color:#0d0d0d;
+    width:400px;
+    
+    
 }
 .container {
     background-color: #9891ac;
