@@ -21,9 +21,6 @@ ul{
     padding:5px;
 }
 h1 {
-    display: flex;
-    flex-grow: 0;
-    height: 100px;
     margin:0px;
 }
 body {
@@ -36,10 +33,7 @@ body {
 p {
     font-size: 18px;
     margin:0px;
-    width: 500px;
-    display: flex;
-
-    
+    width: 500px;  
 }
 .container {
     background-color: #9891ac;
@@ -58,5 +52,19 @@ p {
      align-items: center;
      justify-content: space-between;
 }
+.awesome {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 50px;
+}
 
+.text {
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+}
+.bird {
+    width: 500px;
+}
 
