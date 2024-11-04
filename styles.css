@@ -74,4 +74,10 @@ p {
     width: 500px;
     border: solid #674EA7;
 }
-
+.pics {
+    display: flex;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+}
