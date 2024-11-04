@@ -16,12 +16,16 @@ button {
     border: solid #674EA7;
 }
 .second {
-    border: solid black 1px;
+    border: solid white 1px;
 }
 
 .header {
     font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+.links {
+    color:white;
 }
 ul{
     list-style: none;
