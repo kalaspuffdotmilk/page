@@ -90,3 +90,10 @@ p {
     align-items: center;
     gap:5px;
 }
+.info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    padding:25px;
+}
