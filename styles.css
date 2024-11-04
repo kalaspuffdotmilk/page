@@ -104,10 +104,18 @@ p {
     padding:25px;
     padding-top:50px;
 }
+.unga {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddcce9;
+}
 .inspirational {
     display: flex;
     justify-content: center;
     align-items: center;
+    width:500px;
+    height: auto;
     padding:150px;
     background-color:#ddcce9;
 }
@@ -115,4 +123,9 @@ p {
     font-size: 36px;
     font-style: italic;
     color:#9891ac;
+    align-self: center;
+}
+.bert {
+    display: flex;
+    align-self: flex-end;
 }
