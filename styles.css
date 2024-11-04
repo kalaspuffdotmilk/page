@@ -23,6 +23,7 @@ button {
     font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:white;
+    font-weight: bold;
 }
 .links {
     color:white;
@@ -36,6 +37,7 @@ ul{
 }
 h1 {
     margin:0px;
+    color: white;
 }
 body {
     display: flex;
@@ -48,7 +50,7 @@ p {
     font-size: 18px;
     margin:0px;
     width: 500px;  
-    color:#0d0d0d;
+    color:#e4e2e2;
     width:400px;
     
     
