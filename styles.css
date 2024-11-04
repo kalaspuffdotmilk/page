@@ -12,6 +12,12 @@ button {
     color:white;
     
 }
+.first{
+    border: solid #674EA7;
+}
+.second {
+    border: solid black 1px;
+}
 
 .header {
     font-size: 24px;
@@ -129,4 +135,7 @@ p {
     display: flex;
     align-self: flex-end;
     padding-left: 25px;
+}
+.signup {
+    
 }
