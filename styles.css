@@ -105,6 +105,11 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding:200px;
+    padding:150px;
     background-color:#ddcce9;
+}
+.milk {
+    font-size: 36px;
+    font-style: italic;
+    color:#9891ac;
 }
