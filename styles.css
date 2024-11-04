@@ -112,8 +112,8 @@ p {
 }
 .inspirational {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     width:500px;
     height: auto;
     padding:150px;
@@ -123,9 +123,10 @@ p {
     font-size: 36px;
     font-style: italic;
     color:#9891ac;
-    align-self: center;
+    display: flex;
 }
 .bert {
     display: flex;
     align-self: flex-end;
+    padding-left: 25px;
 }
