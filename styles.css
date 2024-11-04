@@ -72,5 +72,6 @@ p {
 }
 .bird {
     width: 500px;
+    border: solid #674EA7;
 }
 
