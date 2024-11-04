@@ -137,5 +137,14 @@ p {
     padding-left: 25px;
 }
 .signup {
-    
+    background-color: #674EA7;
+    border-radius: 5px;
+    margin:50px;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+}
+.one {
+    display: flex;
+    flex-direction: column;
 }
