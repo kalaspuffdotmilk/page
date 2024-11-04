@@ -80,8 +80,12 @@ p {
 }
 .pics {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:25px;
 }
 .box {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
