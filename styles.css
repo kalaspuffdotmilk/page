@@ -97,3 +97,10 @@ p {
     font-size: 36px;
     padding:25px;
 }
+.inspirational {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:200px;
+    background-color:#ddcce9;
+}
