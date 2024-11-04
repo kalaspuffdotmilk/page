@@ -154,3 +154,10 @@ p {
     font-size: 20px;
     font-weight: bold;
 }
+.feet {
+    background-color: #9891ac;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:25px;
+}
